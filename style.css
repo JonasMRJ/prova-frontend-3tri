@@ -1,0 +1,21 @@
+body {
+    background-image: url(game-awards.jpg);
+}
+
+h1, p {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+p {
+    font-size: 22px;
+
+}
+
+#gta_6 {
+    height: 250px;
+}
+
+#link {
+    height: 300px;
+}
